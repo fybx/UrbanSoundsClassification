@@ -5,7 +5,7 @@ Koç Holding Derin Öğrenme Bootcamp Projesi
 ## Takım Üyeleri
 
 - Ferit Yiğit BALABAN, <f@fybx.dev>
-- Günnur ŞENTÜRK <gunnur.senturk3@gmail.com>
-- ...
+- Günnur ŞENTÜRK, <gunnur.senturk3@gmail.com>
+- Şeyma NURDAĞ, <skilicarslan60@gmail.com>
 - ...
 - ...
