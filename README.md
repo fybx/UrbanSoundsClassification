@@ -7,5 +7,6 @@ Koç Holding Derin Öğrenme Bootcamp Projesi
 - Ferit Yiğit BALABAN, <f@fybx.dev>
 - Günnur ŞENTÜRK, <gunnur.senturk3@gmail.com>
 - Şeyma NURDAĞ, <skilicarslan60@gmail.com>
+- Sıla Neval YAVUZ <silanevalyavuz@gmail.com>
 - ...
-- ...
+- 
